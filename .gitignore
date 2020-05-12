@@ -136,3 +136,8 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Misc Files
+.vscode
+data.txt
+_NOTES.md
